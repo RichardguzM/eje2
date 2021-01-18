@@ -1,0 +1,25 @@
+body {
+    background-color: tan;
+}
+p.centrada {
+    text-align: center;
+}
+p.enlacescentrado {
+    background-color: lightseagreen;
+    text-align: center;
+}
+p.enlacescentrado {
+    text-align: center;
+}
+section.listas1 {
+    background-color: greenyellow;
+}
+span.servicio1 {
+    background-color: yellow;
+}
+span.tachado {
+text-decoration: line-through;
+}
+p.textocentrado {
+    text-align: center;
+}

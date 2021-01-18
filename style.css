@@ -1,0 +1,38 @@
+body {
+    background-color: tan;
+}
+p.centrada {
+    text-align: center;
+}
+p.enlacescentrado {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+img {
+   float: left;
+}img.img2 {
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+section {
+    background-color: lightseagreen;
+}
+span.servicio1 {
+    background-color: yellow;
+}
+span.tachado {
+text-decoration: line-through;
+}
+p.textocentrado {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
